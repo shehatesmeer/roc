@@ -1,0 +1,65 @@
+{
+  "serverName": "Rotation Of Chicago",
+  "description": "Rotation Of Chicago Loading Screen!",
+  "discordUrl": "https://discord.gg/eEnYbn99VF",
+  "tebexUrl": "Your Url Here",
+
+  "discordCard": {
+    "title": "DISCORD SERVER",
+    "description": "Rotation Of Chicago Discord Server!",
+    "url": "https://discord.gg/eEnYbn99VF"
+  },
+
+  "team": [
+    {
+      "name": "Shehatesmeer",
+      "role": "Founder/Dev",
+      "avatar": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/watermark.png"
+    },
+    {
+      "name": "Sosaa Glo",
+      "role": "Admin/CEO",
+      "avatar": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/watermark.png"
+    },
+    {
+      "name": "Bam",
+      "role": "Staff",
+      "avatar": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/watermark.png"
+    }
+  ],
+
+  "rules": [
+  ],
+
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
+  ],
+
+  "music": [
+
+    {
+      "title": "Motion Party",
+      "artist": "Bossman Dlow",
+      "cover": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/watermark.png",
+      "src": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/2026-06-0521-09-03.mp4"
+    },
+
+    {
+      "title": "Barbie Doll",
+      "artist": "Hurricane Wisdom/Chance The Rapper",
+      "cover": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/watermark.png",
+      "src": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/barbiedoll.mp4"
+    },
+
+    
+    {
+      "title": "Dead Man Walking",
+      "artist": "Yungeen Ace",
+      "cover": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/watermark.png",
+      "src": "https://r2.fivemanage.com/0K11uvsejSx8P96QOQRGA/music.mp4"
+    }
+  ]
+}
